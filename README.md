@@ -1,11 +1,11 @@
 # Wine Cellar React
 
-![screen shot](./public/imges/Screenshot%202023-06-29%20at%204.53.33%20PM.png)
+![(screen shot)(https://jg-wine-cellar.web.app)](./public/imges/Screenshot%202023-06-29%20at%204.53.33%20PM.png)
 
-In my React app, I utilized the useState hook to manage state, used the fetch function to retrieve data from an API, and employed the map function to iterate over the fetched data and render it in my component.
+I developed a React application to explore the implementation of useState, Fetch, and map functions. The app utilizes SampleApli to retrieve the necessary data.
 
 ## Website
-[click on this link]()
+[click on this link](https://jg-wine-cellar.web.apphttps://jg-wine-cellar.web.app)
 
 <br>
 
